@@ -10,35 +10,33 @@ export default function TestimonialsSection() {
         <div className="flex flex-col items-center lg:flex lg:flex-row lg:items-center md:flex-row gap-6 md:mt-10 md:grid md:grid-cols-2 md:place-items-center md:max-w-[830px]">
           <div>
             <TestimonialCard
-              name="Veerapandi"
+              name="Omondi"
               rating="5"
-              text="Thank you for dinner last night. It was amazing!! I have to say it’s the best meal I have had in quite some time. You will definitely be seeing more of me eating at 
-              your establishment"
+              text="Ever since I discovered this restaurant, I can never have enough of their dishes"
               imgUrl="./icons_assets/duman.jpg"
             />
           </div>
           <div>
             <TestimonialCard
-              name="Thangadurai"
+              name="Njuguna"
               rating="4.5"
-              text="Thanks again this year for having our wedding anniversary at your fine restaurant last Monday evening. 
-              The food, service, ambience were all superb!!! On behalf of us all, fight on!"
+              text="I have never had this kind of experience anywhere on earth. Delicious and timely"
               imgUrl="./icons_assets/samir.jpg"
             />
           </div>
           <div>
             <TestimonialCard
-              name="Kamila"
-              rating="4"
-              text="Everyone had a wonderful time at The French Gourmet last night. As expected, the food was delicious and our servers,even thought a bit slow, were so friendly and helpful"
+              name="Anyango"
+              rating="5"
+              text="Wow! Just wow! I am yet to get over it. The taste is out of this world. Wow!"
               imgUrl="./icons_assets/yusron.jpg"
             />
           </div>
           <div>
             <TestimonialCard
-              name="Varisu Vijay"
-              rating="4.2"
-              text="My friend and I were at Little Lemon last night for dinner. I want to thank you and the rest of the staff for the excellent food and service provided.Chicken Broth was so delicious"
+              name="Polepole"
+              rating="4"
+              text="I can recommend any time to anyone I love. Lovely and delicious dishes"
               imgUrl="./icons_assets/alexander.jpg"
             />
           </div>

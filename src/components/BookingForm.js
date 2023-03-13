@@ -157,7 +157,7 @@ export default function BookingForm({ availableTimes, dispatch }) {
       </form>
       <div className="md:px-[0px] px-[12px]">
         <h2 className="text-2xl text-white-highlight font-semibold mb-[20px] md:text-left text-center md:mt-[0px] mt-[24px] ">
-          Available Tables
+          Book a Table
         </h2>
         <div className="grid gap-x-2 gap-y-4 lg:grid-cols-4 md:grid-cols-3 grid-cols-2 max-h-[584px]">
           {availableTimes.map((time, index) => {

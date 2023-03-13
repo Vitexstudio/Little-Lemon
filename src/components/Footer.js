@@ -36,16 +36,16 @@ const Footer = () => {
           </ul>
         </div>
         <div className="md:order-3">
-          <h4 className="text-xl font-bold">Contact</h4>
+          <h4 className="text-xl font-bold">Contact info</h4>
           <ul className="text-black-highlight mt-[12px] flex flex-col gap-y-2">
             <li className="hover:text-black cursor-pointer transition-all duration-200 ease-in">
-              <address>43 Hazel st. Chicago IL US</address>
+              <address>P.O Box 1233333</address>
             </li>
             <li className="hover:text-black cursor-pointer transition-all duration-200 ease-in">
-              (+213) 789-792-2679
+              (+254) 726-652-966-1
             </li>
             <li className="hover:text-black cursor-pointer transition-all duration-200 ease-in">
-              contact@little.lemon.com
+              info@little.lemon.com
             </li>
           </ul>
         </div>

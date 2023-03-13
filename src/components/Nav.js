@@ -15,7 +15,7 @@ const Nav = () => {
         {navLinks.map((nav, index) => (
           <li
             key={nav.id}
-            className={`font-bold hover:text-yellow-primary transition-all duration-200 ease-in cursor-pointer text-sm md:text-[16px] lg:text-[18px]  ${
+            className={`font:uppercase hover:text-yellow-primary transition-all duration-200 ease-in cursor-pointer text-sm md:text-[16px] lg:text-[18px]  ${
               index === navLinks.length - 1 ? "mr-0" : "mr-8 sm:mr-2 md:mr-4"
             }`}
           >

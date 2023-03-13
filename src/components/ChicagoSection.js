@@ -10,9 +10,7 @@ export default function ChicagoSection() {
             Chicago
           </h2>
           <p className="text-black-highlight text-left mt-4 md:mb-2 mb-6 font-medium text-xl md:w-1/2 ">
-          Little Lemon is owned by two Italian brothers, Mario and Adrian, who moved to the United States to pursue their shared dream of owning a restaurant. 
-          To craft the menu, Mario relies on family recipes and his experience as a chef in Italy. Adrian does all the marketing for the restaurant and led the effort to expand the menu beyond classic Italian to
-           incorporate additional cuisines from the Mediterranean region.
+          This is a dream come true! When we started it looked impossible. However, we kept the faith and kept trying until the restaurant started making profits. Welcome to our restaurant. Enjoy the delicious foods from across the continent.
           </p>
         </div>
         <div className="">
