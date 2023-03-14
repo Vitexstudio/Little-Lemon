@@ -4,8 +4,17 @@ export default function HeroSection() {
   return (
     <section className=" bg-gray-primary relative">
        <img
-        className=" opacity-40 w-full h-96 md:h-[460px] 2xl:h-[700px] bg-cover bg-center "
+        
         src="./icons_assets/grill.jpg"
+        style={{
+        display: "flex",
+        marginLeft: "900px",
+        marginTop: "20px",
+        borderRadius: "20px",
+        height: "500px",
+        width: "400px"
+
+        }}
         // src="./icons_assets/food4.webp"
         alt="Restaurant Food"
       ></img>
